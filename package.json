@@ -1,8 +1,8 @@
 {
   "name": "sprint-12",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Практика запуска сервера на Node",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
