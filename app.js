@@ -16,7 +16,6 @@ app.use('/', (req, res) => {
   res.status(404).end(JSON.stringify({ message: 'Запрашиваемый ресурс не найден' }), 'utf8');
 });
 
-
 app.listen(PORT, () => {
-  
+
 });
